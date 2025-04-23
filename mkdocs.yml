@@ -1,0 +1,23 @@
+site_name: Documentación Rigoberto Villalta
+site_url: https://example.com
+theme:
+  name: material
+  language: es
+  palette:
+    scheme: default
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to dark mode
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.expand
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.search.highlight
+    - navigation.search.suggest
+    - navigation.search.share
+    - navigation.search.suggest
+    - navigation.search.share
